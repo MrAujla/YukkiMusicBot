@@ -52,7 +52,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=_["🖱️ 𝖩𝗂𝗈𝗇 𝖢𝗁𝖺𝗍 🖱️"], url=f"https://t.me/PunjabiChat_Group",
+                text="🖱️ ᴊɪᴏɴ ᴄʜᴀᴛ 🖱️", url=f"https://t.me/PunjabiChat_Group"
             )
         ],
     ]
